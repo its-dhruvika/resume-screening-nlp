@@ -1,0 +1,8 @@
+Resume 1:
+Python developer with experience in machine learning and data analysis. Familiar with Git and GitHub.
+
+Resume 2:
+Front-end developer skilled in HTML, CSS, and JavaScript.
+
+Resume 3:
+Data science enthusiast with strong Python skills, basic NLP knowledge, and hands-on machine learning projects.
